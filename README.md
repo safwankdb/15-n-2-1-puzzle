@@ -1,2 +1,3 @@
-# 15-n-2-1-puzzle
+# 15-puzzle
 Solves the famous n^2-1 puzzle
+Solution to 15 puzzle
